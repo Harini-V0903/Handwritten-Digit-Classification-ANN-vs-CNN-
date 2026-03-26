@@ -6,19 +6,23 @@ This project aims to build and compare two deep learning models:
 
 ✨ Artificial Neural Network (ANN)
 ✨ Convolutional Neural Network (CNN)
+
 ----
 🔍 Comparison based on:
 
  Accuracy
 Training Speed
 Learning Behavior
+
 ----
+
 📂 Dataset Details
  Dataset: MNIST
 Total Images: 70,000
 Training: 60,000
 Testing: 10,000
 Image Size: 28 × 28 pixels (Grayscale)
+
 ----
 ⚙️ Tech Stack
 
@@ -26,6 +30,7 @@ Python
 TensorFlow / Keras
 NumPy
 Matplotlib
+
 ----
 🧠 Model Architectures
   🔷 ANN (Artificial Neural Network)
@@ -54,12 +59,14 @@ Matplotlib
 ✔ Reshape data:
 ANN → Flattened
 CNN → 4D input (samples, height, width, channel)
+
 ----
 📊 Results Comparison
 
 Accuracy	- ANN -  95–97%	 CNN - 98–99%
 Training Time	Faster	Slower
 Learning	Moderate	Strong
+
 ----
 📈 Learning Behavior
 
